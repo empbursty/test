@@ -1,13 +1,6 @@
 body {
-<<<<<<< HEAD
-	background: #f00;
-}
-h1 {
-	font-size: 32px;
-=======
 	background: greenyellow;
 }
 h1 {
-	font-size: 80px;
->>>>>>> new_style
+	font-size: 32px;
 }
