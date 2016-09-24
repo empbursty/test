@@ -1,2 +1,5 @@
 new add +test user
+<<<<<<< HEAD
 adding something into user2
+=======
+>>>>>>> origin/master
