@@ -1,2 +1,2 @@
 user one
-conflict here
+conflict was here
